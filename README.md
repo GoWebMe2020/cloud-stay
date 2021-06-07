@@ -99,6 +99,14 @@ Tickets were then created and evenly split up between the people in the group to
 * Webrick
 * Simplecov
 
+#### Screenshots
+
+<img src="images/sign-in.png" width="45%">
+<img src="images/listings.png" width="45%">
+<img src="images/new.png" width="45%">
+<img src="images/availabilty.png" width="45%">
+<img src="images/booking.png" width="45%">
+
 ## Credits
 
 * James McMullan
