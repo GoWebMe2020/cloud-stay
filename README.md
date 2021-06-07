@@ -31,8 +31,8 @@ I would like to be the only one that is able to change them.<br>
 * The user is able to register, sign in with authentication, and sign out.<br>
 * The user is able to add a listing.<br>
 * A user is able to add set availability dates for each of their own listings.<br>
-* CSS added to all views with navbar and logo.
-* All tests pass
+* CSS added to all views with navbar and logo.<br>
+* All tests pass<br>
 
 ## Code style
 
